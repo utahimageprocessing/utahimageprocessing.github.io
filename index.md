@@ -39,8 +39,3 @@ The Seminar series is conducted in a role based format, where different students
 ## <span style="color:magenta;">Scheduel</span>
 
 
-
-
-
-## Schedule
-
