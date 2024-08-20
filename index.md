@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-## Advanced Image Analysis Seminar, Fall 2024, University of Utah
+## <span style="color:blue;">Advanced Image Analysis Seminar, Fall 2024, University of Utah</span>
 
 <img src='class-pic.png' width="500" height="320">
 
@@ -13,7 +13,7 @@ This seminar series serves as a platform for exploring the latest advancements a
 
 **Other Affiliated Faculty Members**: [Tolga Tasdizen](https://www.sci.utah.edu/~tolga/), [Sarang Joshi](https://www.bme.utah.edu/profile/?unid=u0492366), [Beatrice Knudsen](https://healthcare.utah.edu/find-a-doctor/beatrice-s-knudsen)
 
-## Roles
+## <span style="color:brown;">Roles</span>
 The Seminar series is conducted in a role based format, where different students take on the following roles while discussing a research paper:
 
 **Presenter**: Summarize and highlight key points of the paper.
@@ -26,7 +26,7 @@ The Seminar series is conducted in a role based format, where different students
 
 **Note-Taker**: Captures key points from the discussion, ensuring a comprehensive record of the session.
 
-## Venue
+## <span style="color:red;">Venue</span>
 
 **Where** : Evans conference room (Warnock Engineering Building 3780)
 
@@ -36,7 +36,7 @@ The Seminar series is conducted in a role based format, where different students
 
 **Interested in participating**: If anyone is interested in contributing to any of the paper analysis sessions, please contact Supervising Faculty mentioned above.
 
-## Schedule
+## <span style="color:magenta;">Scheduel</span>
 
 
 
