@@ -2,6 +2,7 @@
 title: Image Analysis
 layout: home
 toc: true
+nav_enabled: true
 ---
 {:toc}
 # <span style="color:blue;">Advanced Image Analysis Seminar, Fall 2024, University of Utah</span>
