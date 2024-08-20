@@ -1,7 +1,6 @@
 ---
 title: Image Analysis
 layout: home
-nav_exclude: true
 toc: true
 ---
 {:toc}
