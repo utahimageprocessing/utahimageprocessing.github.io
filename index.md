@@ -68,5 +68,3 @@ The Seminar series is conducted in a role based format, where different students
 | Mon Nov 18, 2024 | Domain adaptation / cross-modality image synthesis  |                                                                                                          | Presenter: Tushar Kataria<br>Enthusiast : Amanpreet Singh<br>Skeptic : Rakibul<br>Connector: Hisham<br>NoteTaker: Deekshith |        |
 | Mon Nov 25, 2024 | Deep Learning for MRI Image Reconstruction          |                                                                                                          | Presenter: Hisham<br>Enthusiast : Rakibul<br>Skeptic : Deekshith<br>Connector: Gnanesh<br>NoteTaker: Asma Khan              |        |
 | Mon Dec 2, 2024  | Predicting MRgFUS treatment response.               |                                                                                                          | Presenter: Amanpreet Singh<br>Enthusiast :<br>Skeptic : Krithika Iyer<br>Connector:<br>NoteTaker:                           |        |
-
-Buy Me a Coffee at ko-fi.com
