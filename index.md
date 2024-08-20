@@ -48,7 +48,6 @@ The Seminar series is conducted in a role based format, where different students
 
 # <span style="color:magenta;">Schedule</span>
 
-|---------------------------------------------------------------------------------------------------------------------------------------|
 | Date             | Topic                                               | Paper                                                                                                    | Roles                                                                                                                       | Slides |
 | ---------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------ |
 | Mon Aug 19, 2024 | Foundation modals in pathology                      | [](https://arxiv.org/abs/2405.10254)[https://arxiv.org/abs/2405.10254](https://arxiv.org/abs/2405.10254) | Presenter: Shikha<br>Enthusiast : Asma<br>Skeptic : Tushar<br>Connector: Hamid<br>NoteTaker: Gnanesh                        |        |
