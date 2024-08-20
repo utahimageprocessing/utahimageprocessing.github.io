@@ -4,7 +4,9 @@ layout: home
 toc: true
 nav_enabled: true
 ---
-{: .text-delta }
+## Table of contents
+{: .no_toc .text-delta }
+
 # <span style="color:blue;">Advanced Image Analysis Seminar, Fall 2024, University of Utah</span>
 
 <img src='class-pic.png' width="500" height="320">
