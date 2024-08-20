@@ -37,6 +37,6 @@ The Seminar series is conducted in a role based format, where different students
 
 **Interested in participating**: If anyone is interested in contributing to any of the paper analysis sessions, please contact Supervising Faculty mentioned above.
 
-## <span style="color:magenta;">Scheduel</span>
+## <span style="color:magenta;">Schedule</span>
 
 
