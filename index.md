@@ -1,5 +1,5 @@
 ---
-title: Image Analysis
+title: CS 7938
 layout: home
 ---
 <details open markdown="block">
