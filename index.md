@@ -4,8 +4,14 @@ layout: home
 toc: true
 nav_enabled: true
 ---
-## Table of contents
-{: .no_toc .text-delta }
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 # <span style="color:blue;">Advanced Image Analysis Seminar, Fall 2024, University of Utah</span>
 
