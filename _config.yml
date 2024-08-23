@@ -1,6 +1,7 @@
 title: Image Analysis Seminar Series
 description: Website for the Image Analysis Seminar Series at SCI Institute.
-theme: just-the-docs
+#theme: just-the-docs
+theme: jekyll-theme-minimal
 
 url: https://utahimageanalysis.github.io/
 
