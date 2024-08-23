@@ -1,5 +1,5 @@
 ---
-title: CS 7938
+title: CS 7938: Image Analysis Seminar Series
 layout: home
 ---
 <details open markdown="block">
