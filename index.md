@@ -11,9 +11,9 @@ layout: home
 {:toc}
 </details>
 
-# <span style="color:blue;">Advanced Image Analysis Seminar, Fall 2024, University of Utah</span>
+# <span style="color:blue;">Image Analysis Seminar, Fall 2024, University of Utah</span>
 
-<img src='class-pic.png' width="500" height="320">
+<img src='class-pic.png' width="1000" height="640">
 
 This seminar series serves as a platform for exploring the latest advancements and research breakthroughs in the fields of Image Processing, Medical Image Processing, Computer Vision, and Machine Learning. It provides an opportunity for researchers, practitioners, and students to engage in in-depth discussions, share innovative methodologies, and examine the practical applications of these technologies. This series aims to fosters a collaborative environment where participants can exchange ideas, critique current trends, and contribute to the evolving landscape of above mentioned domains.
 
