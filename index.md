@@ -29,7 +29,7 @@ Through structured discussions and role-based analysis, participants explore div
 
 # Paper Analysis Roles
 
-The Seminar series is conducted in a role based format, where different students take on the following roles while discussing a research paper:
+The Seminar series is conducted in a role-based format, where different students take on the following roles while discussing a research paper:
 
 **Presenter**: Summarize and highlight key points of the paper.
 
