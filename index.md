@@ -15,7 +15,9 @@ layout: home
 
 <img src='class-pic.png' width="1000" height="640">
 
-This seminar series serves as a platform for exploring the latest advancements and research breakthroughs in the fields of Image Processing, Medical Image Processing, Computer Vision, and Machine Learning. It provides an opportunity for researchers, practitioners, and students to engage in in-depth discussions, share innovative methodologies, and examine the practical applications of these technologies. This series aims to fosters a collaborative environment where participants can exchange ideas, critique current trends, and contribute to the evolving landscape of above mentioned domains.
+Welcome to our Imaging Analysis Seminar Series, a dynamic forum at the intersection of AI, machine learning, and imaging science. This series is designed to foster critical thinking, interdisciplinary collaboration, and a deep understanding of cutting-edge research. Each session, led by graduate students and postdocs, focuses on the practical application of advanced methods in image analysis and computer vision, with an eye on responsible AI and ethical considerations. It provides an opportunity for researchers, practitioners, and students to engage in in-depth discussions, share innovative methodologies, and examine the practical applications of these technologies.  
+
+Through structured discussions and role-based analysis, participants explore diverse perspectives in a collaborative environment where participants can exchange ideas and critique current trends, enhancing their ability to critically evaluate research in AI and imaging. This seminar series is not only a platform for knowledge sharing but also a crucial learning experience for developing the skills needed to navigate the rapidly evolving landscape of AI-driven imaging technologies.
 
 **Supervising Faculty for Fall Semester**: [Shireen Elhabian](https://www.sci.utah.edu/~shireen/)
 
