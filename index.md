@@ -2,16 +2,18 @@
 title: CS 7938 - Image Analysis Seminar Series
 layout: home
 ---
-<details open markdown="block">
+
+<!-- <details open markdown="block">
   <summary>
     Table of contents
   </summary>
   {: .text-delta }
 1. TOC
 {:toc}
-</details>
+</details> -->
 
-# <span style="color:blue;">Image Analysis Seminar, Fall 2024, University of Utah</span>
+<!-- # <span style="color:black;">Image Analysis Seminar, Fall 2024, University of Utah</span> -->
+# Image Analysis Seminar, Fall 2024, University of Utah 
 
 <img src='class-pic.png' width="1000" height="640">
 
@@ -23,7 +25,10 @@ Through structured discussions and role-based analysis, participants explore div
 
 **Other Affiliated Faculty Members**: [Tolga Tasdizen](https://www.sci.utah.edu/~tolga/), [Sarang Joshi](https://www.bme.utah.edu/profile/?unid=u0492366), [Beatrice Knudsen](https://healthcare.utah.edu/find-a-doctor/beatrice-s-knudsen)
 
-# <span style="color:brown;">Roles</span>
+<!-- # <span style="color:brown;">Roles</span> -->
+
+# Paper Analysis Roles
+
 The Seminar series is conducted in a role based format, where different students take on the following roles while discussing a research paper:
 
 **Presenter**: Summarize and highlight key points of the paper.
@@ -36,7 +41,9 @@ The Seminar series is conducted in a role based format, where different students
 
 **Note-Taker**: Captures key points from the discussion, ensuring a comprehensive record of the session.
 
-# <span style="color:red;">Venue</span>
+<!-- # <span style="color:red;">Venue</span> -->
+
+# Venue
 
 **Where** : Evans conference room (Warnock Engineering Building 3780)
 
@@ -46,7 +53,8 @@ The Seminar series is conducted in a role based format, where different students
 
 **Interested in participating**: If anyone is interested in contributing to any of the paper analysis sessions, please contact Supervising Faculty mentioned above.
 
-# <span style="color:magenta;">Schedule</span>
+<!-- # <span style="color:magenta;">Schedule</span> -->
+# Schedule
 
 | Date             | Topic                                               | Paper                                                                                                                | Roles                                                                                                                       | Slides                                                                                                                    |
 | ---------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
